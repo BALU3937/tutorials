@@ -1,2 +1,2 @@
-# tutorials
+# R
 R datascience practice examples.
